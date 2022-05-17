@@ -79,7 +79,7 @@ let AppReducer = (state = initialState, action: any): InitialStateType => {
         case CHECK_DUPLICATE: {
             return {
                 ...state,
-                Duplicate: state.TextArray.some(e => e == state.InputValue.toLowerCase() && e !== "")
+                Duplicate: state.TextArray.some(e => e.split(" ").join("") === state.InputValue.toLowerCase().split(" ").join("") && e !== "")
             }
         }
         case DELETE_ALL_NOTES: {

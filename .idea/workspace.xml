@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f27051e2-c959-4ad4-89cb-69af5f54c73f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/netlify.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Redux/Reducers/AppReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/Reducers/AppReducer.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +26,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="ts.external.directory.path" value="C:\Users\gorun\Desktop\Project\ToDoList\to_do_proj\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\gorun\Desktop\Compleate Proj\ToDoList\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -61,7 +62,7 @@
       <workItem from="1652776307042" duration="2031000" />
       <workItem from="1652790458445" duration="177000" />
       <workItem from="1652798157035" duration="548000" />
-      <workItem from="1652806130689" duration="1191000" />
+      <workItem from="1652806130689" duration="2546000" />
     </task>
     <servers />
   </component>
@@ -77,10 +78,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1652501575190" />
-    <state x="528" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1652457444701">
+    <state x="528" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1652807341052">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="528" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1652457444701" />
+    <state x="528" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1652807341052" />
     <state x="147" y="65" key="DiffContextDialog" timestamp="1652501135809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -97,10 +98,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1652501258001" />
-    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1652766867208">
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1652807362356">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1652766867208" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1652807362356" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1652777043254">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
