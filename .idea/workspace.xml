@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f27051e2-c959-4ad4-89cb-69af5f54c73f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/_main-block.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_main-block.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,15 +24,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="C:\Users\gorun\Desktop\Compleate Proj\ToDoList\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gorun\Desktop\Project\ToDoList\to_do_proj\src\components" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gorun\Desktop\Project\ToDoList\to_do_proj\src\components" />
     </key>
   </component>
@@ -61,7 +65,8 @@
       <workItem from="1652776307042" duration="2031000" />
       <workItem from="1652790458445" duration="177000" />
       <workItem from="1652798157035" duration="548000" />
-      <workItem from="1652806130689" duration="4650000" />
+      <workItem from="1652806130689" duration="6951000" />
+      <workItem from="1652841816107" duration="656000" />
     </task>
     <servers />
   </component>

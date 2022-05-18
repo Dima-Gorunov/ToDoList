@@ -9,7 +9,8 @@ $gray: #9b9b9b;
   color: var(--text-color);
   background-color: var(--background-color-1);
   width: 360px;
-  height: 75vh;
+  height: 85%;
+  min-height: 450px;
   border-radius: 15px;
   padding: 25px;
   transition: .2s;
@@ -106,9 +107,11 @@ $gray: #9b9b9b;
     }
   }
 }
-.recycle-svg:hover{
+
+.recycle-svg:hover {
   cursor: pointer;
 }
+
 .hr-shelf {
   padding: 0;
   border: none;
